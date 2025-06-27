@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <ui:Label text="One" style="flex-basis: 150px; flex-shrink: 1; flex-grow: 0; background-color: rgb(255, 100, 0); flex-wrap: nowrap;" />
+    <ui:Label text="Two" style="flex-basis: 150px; flex-shrink: 1; flex-grow: 1; background-color: rgb(100, 255, 0); flex-wrap: nowrap;" />
+</ui:UXML>
